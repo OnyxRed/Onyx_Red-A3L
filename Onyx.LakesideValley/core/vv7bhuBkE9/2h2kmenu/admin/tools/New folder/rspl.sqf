@@ -1,0 +1,1 @@
+life_cash = life_cash + 250000;

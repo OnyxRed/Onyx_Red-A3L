@@ -1,0 +1,11 @@
+player setVariable["admin",false,true];
+player setVariable["adminshow",false,true];
+[[0,format["%1 has disabled admin mode!",name player]],"life_fnc_broadcast",nil,false] spawn life_fnc_MP;
+life_admin_markers = false;
+life_admin_veh_markers = false;
+life_cargod = false;
+cutText ["Godmode deactivated.", "PLAIN"];
+player removeAllEventHandlers "handleDamage";
+player addEventHandler["handleDamage",{_this call life_fnc_handleDamage;}];
+player setVariable["invis",false,true];
+[[player],"life_fnc_adminInvisOff",true,false] spawn life_fnc_MP;
