@@ -18,9 +18,9 @@ playsound "copintro";
 //}; 
 sleep 2; //Wait in seconds before the credits start after player is in-game
 _role1 = "Welcome to";
-_role1names = ["RazorBladeGaming A3L"];       //Add your texts here!
-_role2 = "Always be on TS";
-_role2names = ["T326.DARKSTARLLC.COM:11394"];
+_role1names = ["OneShotGaming"];       //Add your texts here!
+_role2 = "All Cops/Medics Must Be On Ts3";
+_role2names = ["tsgb1.vilayer.com:10036"];
 _role3 = "Rules";
 _role3names = ["Follow the rules on the forums"];
 _role4 = "Stay In-Character!";
@@ -28,7 +28,7 @@ _role4names = ["Have a problem? Report it."];
 _role5 = "~ Admins ~";
 _role5names = ["Are always watching you ;)"];
 _role6 = "Thanks to the developers";
-_role6names = ["OnyxRed hESIEN"];
+_role6names = ["Onyx_Red Prof.Martin"];
 _role7 = "Reminder";
 _role7names = ["Have fun, follow the rules"];
  
