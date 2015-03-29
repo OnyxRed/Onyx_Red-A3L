@@ -13,7 +13,7 @@
             ["Cock_random_F", "Cock",1,0,"raw chicken"],
             ["Hen_random_F", "Hen",1,0,"raw chicken"],
             ["Sheep_random_F", "Sheep",2,2,"raw sheep meat"],
-            ["Rabbit_F", "Rabbit",1,0,"raw rabbit"]
+            ["Rabbit_F", "Rabbit",1,0,"raw bunny"]
     ];	
 
 fnc_gutanimal = {

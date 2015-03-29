@@ -534,7 +534,7 @@ switch(_shop) do
                         case (!license_civ_rebel): {"You don't have a Rebel training license!"};
                         default
                         {
-                                ["Mohammed's Shop",
+                                ["Joe's Shop",
                                         [
 											["RH_g18",nil,35000],
 											["RH_33Rnd_9x19_g18",nil,2500],
